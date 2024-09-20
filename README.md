@@ -29,6 +29,6 @@ The platform is deployed on **Google Cloud Platform**, optimized to handle up to
 
 [**Explore the platform live!**](https://stockinforetreival.wl.r.appspot.com/#/search/home)
 
-##Access the Code
+## Access the Code
 
 To access the code please email sakshisingh0520@gmail.com. This repository is private to prevent academic violation.
