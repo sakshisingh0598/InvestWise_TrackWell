@@ -28,4 +28,3 @@ This project is a stock trading platform built with **Android**, **React**, **No
 The platform is deployed on **Google Cloud Platform**, optimized to handle up to 4,800 simultaneous users, and offers seamless, secure stock trading.
 
 [**Explore the platform live!**](https://stockinforetreival.wl.r.appspot.com/#/search/home)
-"""
