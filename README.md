@@ -1,5 +1,5 @@
 # InvestWise_TrackWell
-A stock trading platform which lets user build profiles and track the performance of stocks which are perfoming well based on SME opinions
+A stock trading platform that lets user build profiles and track the performance of stocks that are perfoming well based on SME opinions
 
 ## Overview
 
@@ -28,3 +28,7 @@ This project is a stock trading platform built with **Android**, **React**, **No
 The platform is deployed on **Google Cloud Platform**, optimized to handle up to 4,800 simultaneous users, and offers seamless, secure stock trading.
 
 [**Explore the platform live!**](https://stockinforetreival.wl.r.appspot.com/#/search/home)
+
+##Access the Code
+
+To access the code please email sakshisingh0520@gmail.com. This repository is private to prevent academic violation.
